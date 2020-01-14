@@ -1,0 +1,1 @@
+copy /b D:\Sample\RacuosServerInfo7\RacuosServerInfo7\bin\Debug\log-front1\time.log*.log D:\Sample\RacuosServerInfo7\RacuosServerInfo7\bin\Debug\f1time.log
