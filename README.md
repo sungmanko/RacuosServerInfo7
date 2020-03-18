@@ -1,5 +1,5 @@
-# RacuosServerInfo7
-RacuosServerInfo7
+# ServerInfo7
+ServerInfo7
 
 ・Front - BackEnd 新ログに対して解析を追加（ログ形式変更対応）
 
